@@ -832,6 +832,7 @@ button {
   margin-left: 12px;
   padding: 10px 30px;
   width: 200px;
+  height: 50px;
   text-align: center;
   color: var(--secondary-text-color);
   background-color: var(--accent-color);
